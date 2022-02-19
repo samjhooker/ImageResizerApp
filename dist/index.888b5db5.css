@@ -1,0 +1,2 @@
+@import "https://fonts.googleapis.com/css2?family=VT323&display=swap";:root{--color-primary:wheat;--color-secondary:#dec9a2;--font-color:##6f6451;background-color:var(--color-primary);color:var(--font-color);font-family:VT323,monospace;font-size:16px}body{display:flex;flex-direction:column;justify-content:center;text-align:center}.cell{background-color:var(--color-secondary);border:var(--font-color) dashed;margin:1rem 0;max-width:10rem;width:95%}
+/*# sourceMappingURL=index.888b5db5.css.map */
