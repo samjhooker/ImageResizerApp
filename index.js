@@ -8,8 +8,8 @@ const canvas = document.querySelector("#canvas");
 const context = canvas.getContext("2d");
 
 let imgToResize = null;
-let canvasWidth = 700;
-let canvasHeight = 300;
+let canvasWidth = 896;
+let canvasHeight = 506;
 let backgroundColor = 'black';
 let scale = 1.00;
 let xOffset = 0;
